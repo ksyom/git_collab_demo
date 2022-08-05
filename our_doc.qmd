@@ -9,3 +9,5 @@ editor: visual
 ## Hi Kimberly, it is really hot outside today. I'm glad I have my iced coffee from Dune.
 
 I think going forward, all Bren staff should communicate this way - no email or instant messages, only sending messages back and forth through a Quarto document.
+
+I agree. Pulling and pushing our conversation in this quarto document is surprisingly bring me much joy.
