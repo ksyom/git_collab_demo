@@ -1,7 +1,7 @@
 ---
-title: "Out git collab"
+title: "Our git collab"
 format: html
 editor: visual
 ---
 
-## 
+## Hello Miya: it's really hot outside today.
