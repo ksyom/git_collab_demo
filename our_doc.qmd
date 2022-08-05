@@ -5,3 +5,5 @@ editor: visual
 ---
 
 ## Hello Miya: it's really hot outside today.
+
+## Hi Kimberly, it is really hot outside today. I'm glad I have my iced coffee from Dune.
